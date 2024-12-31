@@ -80,3 +80,10 @@ void menu (){
         menu();
     }
 }
+
+// TODO : 
+// - Factorial
+// - SQRT
+// - Recipies 
+// - More if thought about something
+
